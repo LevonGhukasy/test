@@ -1,0 +1,21 @@
+#ggg{
+    position: relative;
+    width: 350px;
+    height: 500px;
+    margin: auto;
+    z-index: 5;
+    color: red;
+    color: blue;
+}
+.lll{
+    color: black
+}
+div{
+    color: antiquewhite
+}
+
+p{
+    display: inline;
+    position: absolute;
+    left: 350px;
+}
